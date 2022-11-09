@@ -34,3 +34,7 @@ $conn = null;
      <title>Test</title>
 
 <li style='font-size:18px;'><a href='logout.php?logout-submit=logout'>Logout</a></li>
+
+
+  </body>
+</html>
